@@ -54,6 +54,17 @@ Log Mock Test Scores: Record practice test scores in the Analytics section to tr
 
 Review Your Dashboard: Monitor total study hours and overall readiness score to optimize your timetable.
 
+## Screenshots 
+<img width="1557" height="836" alt="image" src="https://github.com/user-attachments/assets/520b84a2-10a7-4fb1-9e43-f73cdf0d72a6" />
 
+<img width="1567" height="822" alt="image" src="https://github.com/user-attachments/assets/ffbde0af-79fc-4195-8bfc-00e43e4f7642" />
+
+<img width="1588" height="836" alt="image" src="https://github.com/user-attachments/assets/692fcae6-fa43-4a8f-98e8-a1d3e5517cf8" />
+
+<img width="1597" height="771" alt="image" src="https://github.com/user-attachments/assets/289ff8be-aad2-4a40-aa80-2db23d48d768" />
+
+
+
+## 
 📄 License
 Distributed under the MIT License. See LICENSE for details.
